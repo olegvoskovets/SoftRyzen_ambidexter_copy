@@ -1,0 +1,501 @@
+{
+  "mainTitle": "Halushka Kyrylo",
+  "navBar": [
+    { "label": "about me", "link": "about_me" },
+    { "label": "about school", "link": "about_school" },
+    { "label": "for whom", "link": "for_whom" },
+    { "label": "format", "link": "format" },
+    { "label": "courses", "link": "courses" },
+    { "label": "reviews", "link": "reviews" }
+  ],
+  "navigation": {
+    "aboutMe": "About me",
+    "aboutSchool": "About school",
+    "orientedClient": "For whom",
+    "format": "Format",
+    "courses": "Courses",
+    "reviews": "Feedback"
+  },
+  "siteMap": {
+    "goHome": "To Home page",
+    "toOratorPage": "Oratorical skill",
+    "toActorPage": "Acting skills"
+  },
+  "socialNetworks": "Social media",
+  "applyButtonLabel": "Sign up",
+
+  "hero": {
+    "speciality": [
+      [
+        "Professional theater and film actor",
+        "Theater director",
+        "Anchorman",
+        "Showman",
+        "Announcer"
+      ],
+      [
+        ["Coach of public speaking", "and acting skills"],
+        ["Founder of", "AMBIDEXTER online school"]
+      ]
+    ],
+    "title": "Halushka Kyrylo"
+  },
+  "aboutMe": {
+    "title": "About me",
+    "boldSubTitle": "Goals",
+    "subTitle": "that i set in every lesson:",
+    "goals": [
+      "Teach according to the unique author's method and share the experience of students",
+      "To transfer universal knowledge and skills that will be useful both in your professional and personal life",
+      "To help overcome one's own barriers and achieve success in personal self-development."
+    ],
+    "cards": [
+      { "count": "1k+", "text": "master classes and individual classes" },
+      {
+        "count": "100+",
+        "text": "conferences with expertise in public speaking"
+      },
+      {
+        "count": "20+",
+        "text": "acting and public speaking schools where I taught, including:",
+        "list": [
+          "AlterSchool ",
+          "Acting courses ЧЕ",
+          "NovaMedia School",
+          "Academy of IT-education \"Goiteens\"",
+          "XS models",
+          "TopStars"
+        ]
+      },
+      {
+        "count": "5к+",
+        "text": "graduated students with the best feedback"
+      },
+      {
+        "count": "10+",
+        "text": "training options based on two unique courses in public speaking and acting"
+      }
+    ],
+    "videoLink": "https://www.youtube.com/watch?v=gg1z9PN7YyI"
+  },
+  "aboutSchool": {
+    "title": "About school",
+    "subTitle": "will help you",
+    "features": [
+      "Develop emotionality and the ability to manage emotions",
+      "Improve the ability to improvise and work with the word",
+      "Love your voice, make it pleasant and attractive",
+      "Voice the characters and bring them to life with your voice",
+      "Touch the art of acting: create your own characters and embody them",
+      "Create interesting scenarios and learn how to implement them",
+      "To master techniques and exercises for the development of SOFT SKILLS",
+      "To interest and captivate the audience, to be a great speaker!",
+      "Defend your point of view and infect others with your ideas",
+      "Create an effective and memorable presentation",
+      "Forget about fear and be confident before public speaking",
+      "Learn not to lose balance in conflict situations"
+    ]
+  },
+  "orientedClient": {
+    "title": "For whom",
+    "positions": {
+      "label": "Important for",
+      "list": [
+        "Public or political figures",
+        "Novice actors",
+        "People speaking in front of a crowded audience",
+        "Organizers of meetings, presentations and seminars",
+        "Specialists in sales",
+        "Video bloggers developing their own brand"
+      ]
+    },
+    "goals": {
+      "label": "For those who",
+      "list": [
+        "Shy and unsure of himself and his voice",
+        "Wants to change and become a better version of himself",
+        "Has bad experience in public speaking, or no experience at all",
+        "Does not know how to present and tell a story correctly",
+        "Cannot express himself emotionally and consistently",
+        "Worried and does not know how to hold the attention of the audience",
+        "Complexes in the company of strangers and does not know how to start a conversation"
+      ]
+    }
+  },
+  "format": {
+    "title": "Training format",
+    "subTitle": "All lessons",
+    "boldSubTitle": "Online",
+    "cards": [
+      {
+        "title": "Individual classes",
+        "listLabel": "Advantages of individual classes",
+        "list": [
+          "No summaries and long lectures",
+          "A minimum of theory - a maximum of practice",
+          "Easy and affordable",
+          "Individual approach",
+          "Convenient format and time of study",
+          "The result is already after the first lesson"
+        ],
+        "marketing": "Try the first class for free!"
+      },
+      {
+        "title": "Group classes",
+        "listLabel": "Advantages of group classes",
+        "list": [
+          "Speaking practice",
+          "Work in pairs and groups",
+          "Additional motivation",
+          "New acquaintances"
+        ],
+        "marketing": "Try the first class for free!"
+      }
+    ],
+    "advantageList": [
+      "More than 60% of the course is practice. Therefore, it is important to attend classes. It is best to choose a cozy and quiet place where it will be convenient for you to do all the exercises.",
+      "At the end of the course, you will receive a certificate of course completion and final feedback from the teacher."
+    ]
+  },
+  "courses": {
+    "title": "Courses",
+    "subTitle": "Which way will you choose?",
+    "cards": [
+      {
+        "label": "Acting skill",
+        "alt": "Theatrical masks"
+      },
+      {
+        "label": "Oratory skill",
+        "alt": "Microphones"
+      }
+    ],
+    "btnShowMore": "Learn more"
+  },
+  "reviews": {
+    "label": "Feedback from graduates",
+    "comments": [
+      {
+        "photo": "/images/review9.jpg",
+        "name": "Fylyp",
+        "rating": "5",
+        "comment": "It was interesting for me to study with Kirill. We worked with oratory, diction, and staged theatrical skits. I liked everything, more thanks to Kiril.",
+        "alt": "Fylyp"
+      },
+      {
+        "photo": "/images/review5.jpg",
+        "name": "Artur",
+        "rating": "5",
+        "comment": "Recently, I had public speaking classes with Kirill and I found the experience to be satisfactory. He was professional and knowledgeable in his craft. Kirill provided a range of practical exercises that helped me improve my public speaking skills, as well as other skills such as articulation and quick thinking. I appreciated that he gave clear and concise feedback that helped me improve my voice, body language, and storytelling abilities.",
+        "alt": "Artur"
+      },
+      {
+        "photo": "/images/review6.jpg",
+        "name": "Sveta Boeva",
+        "rating": "5",
+        "comment": "Kirill is a great coach and an inspirational, enthusiastic, and motivating person! Each lesson, he creates a safe and encouraging environment to practice and learn. He gives precise techniques on how to improve your voice, body language, and tell a story in a compelling, emotional, and genuine way that captivates the audience and gets them hooked immediately. Not only do I learn to speak in public with confidence, but I also feel energized and ready to take on the world after each lesson.",
+        "alt": "Sveta Boeva"
+      },
+      {
+        "photo": "/images/review7.jpg",
+        "name": "Марк",
+        "rating": "5",
+        "comment": "Прекрасний викладач, що вміє зацікавити предметом та правильно розставити акценти під час навчання! Уроки проходять на одному диханні. Однозначно рекомендую!",
+        "alt": "Mark"
+      },
+      {
+        "photo": "/images/review8.jpg",
+        "name": "Julia",
+        "rating": "5",
+        "comment": "Kirill is a brilliant, warm, and friendly teacher. I highly recommend his lessons. I was not a total beginner to the subject, but my heart always sunk when I had to speak in public. His lessons are incredibly well structured, Kirill gave me a lot of practical exercises that help in other domains as well (exercises for articulation and improving the voice, exercises to develop quick thinking and reaction, etc.) Thanks to Kirill, I now sail through my presentations pain-free, and even took up a new interest in public speaking.",
+        "alt": "Julia"
+      },
+      {
+        "photo": "/images/review3.jpg",
+        "name": "Сергій",
+        "rating": "5",
+        "comment": "Після багатьох місяців занять можу з впевненістю рекомендувати Кирила. Кожне заняття це різноманітні теоретичні та практичні вправи які доповнюються розбором найвідоміших виступів та промов. То ж ви не тільки пропрацюєте окремі елементи як то імпровізація, інтонація, жести тощо, але й повноцінний виступ. Таким чином, ви дуже швидко зможете знайти та покращити слабкі місця вашого виступу і зроби з нього виступ вашої мрії)",
+        "alt": "Serhii"
+      },
+      {
+        "photo": "/images/review1.jpg",
+        "name": "Alla",
+        "rating": "5",
+        "comment": "Huge thanks to Kirill ! I enjoy our lessons. Kirill is a very friendly and patient tutor. Although the lessons are challenging for me, I'm looking forward to every meeting!",
+        "alt": "Alla"
+      },
+      {
+        "photo": "/images/review2.jpg",
+        "name": "Alyona",
+        "rating": "5",
+        "comment": "Кирилл превосходный коуч, он даёт много практических заданий, диалогов и объясняет очень много, на каждом уроке моя дочь получает большое количество полезных и ценных знаний, которые ей помогут в жизни. Уроки проходят в приятной атмосфере, насыщенно, живо, интересно. Мы просто счастливы, что занимаемся у Кирилла!",
+        "alt": "Alyona"
+      },
+      {
+        "photo": "/images/review4.jpg",
+        "name": "Antonina Anisovich",
+        "rating": "5",
+        "comment": "I had the privilege of being a student of Kirill and I cannot express enough how grateful I am for the transformative experience. I wholeheartedly recommend Kirill to anyone seeking to enhance their public speaking abilities. He is a true professional and an invaluable asset for anyone aspiring to become a more persuasive, impactful, and confident speaker.",
+        "alt": "Antonina Anisovich"
+      }
+    ],
+    "btnLabel": {
+      "ariaLeft": "Left",
+      "label": "More reviews",
+      "ariaRight": "Right"
+    }
+  },
+  "advertise": {
+    "label": "The first class",
+    "title": "Free",
+    "text": "Don't miss the opportunity to become the best version of yourself. Sign up for a free trial class with Ambidexter today!"
+  },
+  "coursePages": {
+    "label": "Course",
+    "oratorySkill": {
+      "title": "Oratorical skill",
+      "cards": [
+        {
+          "title": "The ability to speak",
+          "list": [
+            "Oratorical skills: eye contact, gesticulation, intonation, tempo of speech",
+            "Competent expression of opinions and improvement of communication skills",
+            "Overcoming the fear of public speaking and communicating with people",
+            "Using voice and speech to highlight information",
+            "The development of active listening skills and the ability to interact with the audience during a dialogue or discussion."
+          ]
+        },
+        {
+          "title": "Voice acting",
+          "list": [
+            "Voice: how to be heard, persuasive and interesting",
+            "Correct subtexts and emotionality in the speech",
+            "Intonation technique",
+            "The role of the voice in public speeches, presentations and everyday communication",
+            "Engaging the audience with voice",
+            "Speech tempo and use of pauses"
+          ]
+        },
+        {
+          "title": "Non-verbal communication. Body language.",
+          "list": [
+            "How to stand, where to put your hands: analysis of successful and unsuccessful use of gestures by speakers",
+            "Work on posture and expressiveness of gestures during communication and speeches",
+            "Types and functional features of non-verbal communication",
+            "How to effectively use our body language to express emotions and establish a connection with the interlocutor or audience",
+            "Correct use of non-verbal communication: how to become a more confident speaker and make your communication more effective"
+          ]
+        },
+        {
+          "title": "Language improvisation. Work with the word.",
+          "list": [
+            "Speech without preparation",
+            "Storytelling in real time",
+            "Answers to provocative questions",
+            "Tools of improvisation in public speaking",
+            "Practical exercises on the speed of formulating thoughts and transforming them into speech",
+            "The skill not to hide in the center of attention, but to enjoy it",
+            "Non-standard and associative thinking"
+          ]
+        },
+        {
+          "title": "The art of argumentation. How to convince. Defend your point of view.",
+          "list": [
+            "Techniques of correct formulation and presentation of an argument",
+            "The structure of a persuasive speech",
+            "Develop the ability for critical thinking",
+            "The ability to lead a discussion and use arguments correctly",
+            "What (not) to say to customers and how to extinguish conflicts: an algorithm",
+            "Development of strategies for peaceful resolution of conflicts",
+            "Iron logic: how to win convincingly in arguments",
+            "Get concrete experience of applying the suggested methods of persuasion in practice"
+          ]
+        },
+        {
+          "title": "Storytelling. Story is the currency of the 21st century.",
+          "list": [
+            "The power of persuasion through a well-told story",
+            "Become the soul of the company by telling stories",
+            "Preparation of interesting stories \"from nothing\"",
+            "Captivate your story and hold your audience's attention",
+            "Building and telling a compelling story",
+            "The structure and elements of a powerful corporate story",
+            "Stories that help persuade and sell",
+            "Creating a brand",
+            "Motivating employees and transferring experience through stories"
+          ]
+        },
+        {
+          "title": "The art of self-presentation. The ability to make a first impression.",
+          "list": [
+            "Creating an impressive image and effective communication of own ideas",
+            "Development of charisma",
+            "How to make your own product or service unique and be able to tell about it in an interesting way",
+            "Preparing for the interview and correctly presenting your experience and achievements",
+            "Self-presentation strategies to manage the audience's impression and get them to accept your ideas"
+          ]
+        },
+        {
+          "title": "Soft skills. Skills that are needed today.",
+          "list": [
+            "Learn to better understand the psychology of communication between people",
+            "How to remove a huge number of fears and unnecessary worries",
+            "Team work. Build new, effective relationships with colleagues at work and in the family",
+            "Master the techniques of active listening and prevent conflicts in relationships",
+            "Improve emotional and social competence in communicating with people: recognize, understand and manage emotions"
+          ]
+        },
+        {
+          "title": "Structuring the speech",
+          "list": [
+            "Preparation for the speech: structure and development of the topic",
+            "Elements of a successful performance and presentation",
+            "Choosing a goal and transforming an abstract idea into a communicable message",
+            "Basics of dramaturgy and attracting the attention of the audience",
+            "Analysis of famous historical speeches"
+          ]
+        },
+        {
+          "title": "Final speech on the chosen topic",
+          "list": [
+            "Final speech",
+            "Feedback from the course and performance",
+            "Certificate of completion of the public speaking course"
+          ]
+        }
+      ]
+    },
+    "actingSkill": {
+      "title": "Acting skills",
+      "cards": [
+        {
+          "title": "Emotionality",
+          "list": [
+            "The difference between feelings and emotions and working out one's own emotional intelligence",
+            "Development of a range of emotions through play, different situations and characters",
+            "Skills to express emotions through gestures and facial expressions"
+          ]
+        },
+        {
+          "title": "Voice",
+          "list": [
+            "Work on pronunciation, intonation and subtexts",
+            "Voice strength and timbre",
+            "Dubbing",
+            "How to play the voice and change it"
+          ]
+        },
+        {
+          "title": "Body",
+          "list": [
+            "The power to have full control of one's own body",
+            "Practicing emancipation, overcoming psychological barriers",
+            "Gesticulation. Body language and its features in communication"
+          ]
+        },
+        {
+          "title": "Fantasy and imagination",
+          "list": [
+            "Exercises for expressiveness, imagination and creative thinking",
+            "Development of imagination",
+            "Creating a scenario - from idea to implementation"
+          ]
+        },
+        {
+          "title": "Improvisation",
+          "list": [
+            "Development of memory, attention and creative imagination",
+            "Improvisational practices for stage and life",
+            "Training of all types of memory: auditory, visual, emotional, motor"
+          ]
+        },
+        {
+          "title": "How to act for the camera",
+          "list": [
+            "Being natural on camera",
+            "Camera. Where to look, what to say, how to move",
+            "How to accept yourself and your voice during live broadcasts or recordings"
+          ]
+        },
+        {
+          "title": "Characters",
+          "list": [
+            "The ability to create and transform into characters",
+            "Immersion in the role. Ability to think outside the box and act in usual circumstances",
+            "Analysis of acting techniques based on examples of famous theater and film actors"
+          ]
+        },
+        {
+          "title": "Final lesson",
+          "list": [
+            "Final creative task",
+            "Feedback from the course and performance",
+            "Acting course completion certificate"
+          ]
+        }
+      ]
+    }
+  },
+  "formData": {
+    "name": {
+      "label": "Name",
+      "placeholder": "John",
+      "errors": ["Invalid name"]
+    },
+    "phoneNumber": {
+      "label": "Phone",
+      "placeholder": "+380971234567",
+      "errors": ["Invalid phone"]
+    },
+    "email": {
+      "label": "E-mail",
+      "placeholder": "yourmail@mail.com",
+      "errors": ["Invalid e-mail"]
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Your message...",
+      "errors": ["Message is too long"]
+    },
+    "notification": {
+      "error": "An error occurred while sending!",
+      "success": "Message sent successfully!"
+    },
+    "btnSend": "Send",
+    "btnClose": "Close"
+  },
+  "contacts": [
+    {
+      "name": "Telegram",
+      "link": "https://t.me/+380680619457",
+      "ariaLabel": "link to Telegram"
+    },
+    {
+      "name": "Viber",
+      "link": "viber://contact?number=%2B380680619457",
+      "ariaLabel": "link to Viber"
+    },
+    {
+      "name": "Whatsapp",
+      "link": "https://api.whatsapp.com/send?phone=380680619457",
+      "ariaLabel": "link to Whatsapp"
+    }
+  ],
+  "socialMedia": [
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/ambidexter.school/",
+      "ariaLabel": "link to Instagram"
+    },
+    {
+      "name": "Youtube",
+      "link": "https://www.youtube.com/@Ambidexterschool",
+      "ariaLabel": "link to Youtube"
+    },
+    {
+      "name": "Tiktok",
+      "link": "https://tiktok.com/@ambidexterschool",
+      "ariaLabel": "link to Tiktok"
+    }
+  ]
+}
